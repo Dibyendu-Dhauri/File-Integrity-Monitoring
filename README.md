@@ -38,3 +38,8 @@ For example, if you want to scan a directory /path/to/your/files, run the follow
 ```bash
 python3 file_integrity_monitor.py /path/to/your/files
 ```
+
+## Project Page
+
+You can find the project on GitHub at: [File Integrity Monitoring](https://github.com/Dibyendu-Dhauri/File-Integrity-Monitoring)
+
