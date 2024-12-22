@@ -41,5 +41,5 @@ python3 file_integrity_monitor.py /path/to/your/files
 
 ## Project Page
 
-You can find the project on GitHub at: [File Integrity Monitoring](https://github.com/Dibyendu-Dhauri/File-Integrity-Monitoring)
+You can find the project at: [File Integrity Monitoring](https://roadmap.sh/projects/file-integrity-checker)
 
