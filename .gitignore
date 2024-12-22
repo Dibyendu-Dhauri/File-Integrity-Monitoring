@@ -1,0 +1,26 @@
+# Python-specific files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+
+# Log files
+*.log
+
+# Hash store file (if you want to ignore the hash store from being tracked)
+file_hashes.json
+
+# IDE and editor specific files (VS Code example)
+.vscode/
+
+# Operating System-specific files (macOS example)
+.DS_Store
+
+# Other potential unnecessary files
+*.bak
+*.swp
+*.tmp
